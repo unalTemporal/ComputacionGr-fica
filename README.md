@@ -1,2 +1,2 @@
-# ComputacionGr-fica
+# Computacion Gráfica
 ME (Thomas Vargas Suárez)
