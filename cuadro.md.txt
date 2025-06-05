@@ -1,0 +1,33 @@
+# Gestión de Proyectos con Notion (Versión Estudiante)
+
+---
+
+Este repositorio contiene recursos y documentación relacionados con la gestión de nuestro proyecto, utilizando **Notion** como herramienta principal. Hemos optado por Notion debido a su versatilidad y las ventajas que ofrece la versión para estudiantes.
+
+A continuación, presentamos un cuadro comparativo que resume las **ventajas y desventajas** de usar Notion para la gestión de proyectos en equipo, especialmente desde la perspectiva de un estudiante.
+
+---
+
+## Cuadro Comparativo: Notion para Proyectos en Equipo (Versión Estudiante)
+
+| Característica        | Ventajas                                                                                                                                                                                                                                                                                       | Desventajas                                                                                                                                                                                                                                                                 |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Costo** | - **Gratuito:** La versión Personal Pro (ideal para estudiantes) es totalmente gratis con un correo institucional, ofreciendo funcionalidades ilimitadas que en la versión de pago cuestan alrededor de $8/mes. Esto es crucial para presupuestos limitados.                                    | - Ninguna desventaja directa en el costo para estudiantes, ya que es gratis.                                                                                                                                                                                                       |
+| **Colaboración** | - **Espacios de trabajo compartidos:** Permite crear espacios de trabajo donde todo el equipo puede acceder y editar en tiempo real. <br> - **Comentarios y menciones:** Facilita la comunicación directa sobre tareas o documentos específicos. <br> - **Permisos personalizables:** Puedes definir quién puede ver, editar o solo comentar en diferentes páginas. | - **Curva de aprendizaje inicial para el equipo:** Si tu equipo no está familiarizado con Notion, puede tomar tiempo acostumbrarse a su interfaz y a la forma en que se estructuran las páginas. <br> - **Gestión de notificaciones:** Puede ser abrumador si no se configuran adecuadamente, llevando a ruido innecesario. |
+| **Funcionalidades** | - **Flexibilidad extrema:** Permite crear bases de datos (listas, tableros Kanban, calendarios, galerías), wikis, documentos y notas, todo interconectado. <br> - **Plantillas:** Gran variedad de plantillas pre-diseñadas para gestión de proyectos, seguimiento de tareas, agendas de reuniones, etc. <br> - **Incrustaciones:** Posibilidad de incrustar contenido de otras plataformas (Google Drive, Figma, Miro, etc.). <br> - **Vistas personalizables:** Puedes ver la misma información en diferentes formatos (lista, tablero, calendario, Gantt, etc.). | - **No es un software de gestión de proyectos "puro":** Aunque es muy flexible, carece de algunas funciones avanzadas que sí tienen herramientas dedicadas (ej. gestión de recursos detallada, diagramas de Gantt complejos con ruta crítica). <br> - **Rendimiento con muchas páginas/datos:** Si el espacio de trabajo se vuelve muy grande y complejo, la carga de páginas puede ralentizarse un poco. |
+| **Personalización** | - **Altamente adaptable:** Puedes adaptar cada página y base de datos a las necesidades específicas de tu proyecto y equipo. <br> - **Apariencia:** Permite personalizar íconos, portadas y tipografías para hacer el espacio de trabajo más atractivo y funcional.                           | - **Puede ser abrumador al principio:** La gran cantidad de opciones puede ser intimidante para usuarios nuevos, generando una parálisis por análisis. <br> - **Consistencia:** Mantener la consistencia en la estructura y el uso por parte de todos los miembros del equipo requiere una buena organización inicial. |
+| **Integraciones** | - Permite incrustar y enlazar con un sinfín de herramientas externas (Google Drive, Figma, Miro, Trello, etc.), facilitando la centralización de recursos.                                                                                                                                   | - **Integraciones nativas limitadas:** Aunque permite incrustar, sus integraciones "nativas" (acciones directas o sincronización bidireccional) con algunas herramientas pueden ser menos profundas que las de softwares más especializados.                                         |
+
+---
+
+**Conclusión:**
+
+**Notion**, en su versión **gratuita para estudiantes**, es una herramienta **extremadamente potente y versátil** para la gestión de proyectos en equipo. Su mayor fortaleza radica en su flexibilidad y capacidad para centralizar mucha información en un solo lugar. Sin embargo, requiere una inversión inicial de tiempo para que el equipo se familiarice con ella y establezca una estructura clara. Si tu equipo está dispuesto a aprender y a ser creativo con la herramienta, Notion puede ser un aliado formidable para llevar tu proyecto estudiantil al éxito.
+
+---
+
+### ¿Cómo empezar?
+
+Si deseas explorar cómo estamos utilizando Notion en nuestro proyecto o tienes preguntas, no dudes en abrir una _issue_ o contactarnos.
+
+---
