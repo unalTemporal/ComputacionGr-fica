@@ -1,2 +1,2 @@
 # ComputacionGr-fica
-ComputaciónGrafica github
+ME (Thomas Vargas Suárez)
